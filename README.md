@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Marx 🤷🏾
 
-## I'm a Social Scientist, Developer and a person who breaths ✨
+## I'm a Social Scientist, Developer and also a person ✨
 
 ### About me:
 - 🧐💻 I'm Currently learning Frontend Development focused in JS techs such as React ⚛️
